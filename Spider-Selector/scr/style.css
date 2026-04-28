@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.botoes {
+    margin-bottom: 20px;
+}
+
+button {
+    color: black;
+    background-color: rgb(155, 154, 154);
+    padding: 15px 30px;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.imagem {
+    width: 300px;
+    height: auto;
+}
