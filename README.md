@@ -69,6 +69,8 @@ This helps track learning progress over time.
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 Developed by **Bernardo Koehler**
+
+---
